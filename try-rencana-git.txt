@@ -1,3 +1,4 @@
 RENCANA KONTEN
 - membuat javascript
-- membuat blog web
+- membuat blog seo web
+- membuat ecommerce
